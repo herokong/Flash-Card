@@ -1,12 +1,27 @@
-# React + Vite
+# 📚 500 Most Common Words Flash Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Quickly master essential vocabulary** with this flashcard repository. Perfect for language learners, developers, and exam prep!
 
-Currently, two official plugins are available:
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-English-blue?style=flat" alt="Language">
+  <img src="https://img.shields.io/badge/Format-CSV%20%7C%20JSON%20%7C%20TXT-green" alt="Formats">
+  <img src="https://img.shields.io/badge/Flashcards-500-brightgreen" alt="Total Flashcards">
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔍 **Features**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **500 high-frequency words** with definitions/examples
+- 🔄 **Spaced repetition**-ready (compatible with Anki, Quizlet)
+- 🌍 Supports multilingual translations (placeholders included)
+- 🧠 Optimized for **memory retention** (categorized by difficulty)
+
+---
+
+## 📥 **Installation**
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/herokong/Flash-Card
+   ```
