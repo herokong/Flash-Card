@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Language-English-blue?style=flat" alt="Language">
-  <img src="https://img.shields.io/badge/Format-CSV%20%7C%20JSON%20%7C%20TXT-green" alt="Formats">
   <img src="https://img.shields.io/badge/Flashcards-500-brightgreen" alt="Total Flashcards">
 </div>
 
